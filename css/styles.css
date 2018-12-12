@@ -260,6 +260,25 @@ footer.main a:hover {
 
 }
 
+/* Media Query */
+
+@media (max-width: 767px){
+
+}
+
+@media (min-width: 768px){
+
+}
+@media (min-width: 992px){
+
+}
+@media (min-width: 1200px){
+
+}
+
+
+
+
 
 /* Force Elements to Self Clear its Children: http://css-tricks.com/snippets/css/clear-fix/ */
 
